@@ -1,8 +1,8 @@
-server:
-  port: 9000
+#server:
+#  port: 9000
 
-zuul:
-  prefix: /api/v1
-  routes:
-    rest:
-      serviceId: serviceId
+#zuul:
+#  prefix: /api/v1
+#  routes:
+#    rest:
+#      serviceId: restdemo
